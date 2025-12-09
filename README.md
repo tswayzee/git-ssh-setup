@@ -77,11 +77,11 @@ Verify the settings by doing a `git config -l`. You should see your name and ema
 
 - From there click on the fork icon to create a fork of this repository
 
-![fork](assets/fork.png)
+![fork](fork.png)
 
 - Then you will clone this repository into your machine click on the Green code icon and then click on the clipboard to copy the URL.  Make sure to select the SSH option.
 
-![alt text](assets/clone.png)
+![alt text](clone.png)
 
 - Now from inside of your terminal enter the command in your home directory
 
