@@ -49,7 +49,7 @@ We'll first need to get our public key using the following command:
 cat ~/.ssh/id_ed25519.pub
 ```
 
-Copy this key to your clipboard and then navigate to the [GA github](https://git.generalassemb.ly/)
+Copy this key to your clipboard and then navigate to the [GA github](https://git.generalassemb.ly/) you have setup for the course.
 
 Navigate to your GitHub settings and add a new SSH key. This process is detailed in [Github's documentation for adding an SSH key to your account](https://docs.github.com/en/authentication/connecting-to-github-with-ssh/adding-a-new-ssh-key-to-your-github-account).
 
