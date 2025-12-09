@@ -68,25 +68,3 @@ git config --global user.email "<THE_EMAIL_YOU_USE_FOR_GITHUB@EMAIL.COM>"
 ```
 
 Verify the settings by doing a `git config -l`. You should see your name and email.
-
-## Fork And Clone The Classroom Repository
-
-- Go into the classroom repository 
-
-- https://git.generalassemb.ly/ModernEngineering/ModernEngineering
-
-- From there click on the fork icon to create a fork of this repository
-
-![fork](fork.png)
-
-- Then you will clone this repository into your machine click on the Green code icon and then click on the clipboard to copy the URL.  Make sure to select the SSH option.
-
-![alt text](clone.png)
-
-- Now from inside of your terminal enter the command in your home directory
-
-```
-git clone pasteTheLinkFromTheClipboardDoNotJustCopyAndPasteThisText
-```
-
-- Now you should see a directory with the Modern Engineering Respository
